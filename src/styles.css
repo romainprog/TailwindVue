@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agilit.law%2Fvoeux2019%2Fattachment%2Ffond-page-carte%2F&psig=AOvVaw1Z55BcVrK2JZFuUhSAuwqr&ust=1649249221132000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJCXzqf6_PYCFQAAAAAdAAAAABAD')
+  }
